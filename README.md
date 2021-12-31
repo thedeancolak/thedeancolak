@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @thedeancolak
+- 👀 I’m interested in learning to code in Swift and eventually learning about neural networks and AI
+- 🌱 I’m currently learning Swift and Swift UI thanks to Paul Hudson's Hacking with Swift tutorial series
